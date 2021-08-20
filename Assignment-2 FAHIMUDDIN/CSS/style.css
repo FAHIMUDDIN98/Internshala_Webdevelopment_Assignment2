@@ -1,0 +1,62 @@
+#banner_image{
+    padding-top:75px;
+    padding-bottom:50px;
+    text-align:center;
+    color:#f8f8f8;
+    background:url(../images/intro-bg_1.jpg) no-repeat center center;
+    background-size:cover;
+    height:660px;
+    margin-top:-15px;
+
+} 
+
+#banner_content{
+    position:relative;
+    padding-top:6%;
+    padding-bottom:6%;
+    overflow:hidden;
+    margin:auto;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+    
+   
+}
+
+.inner-banner-image{
+    padding-top:12%;
+    width:80%;
+    margin:auto;
+}
+
+.footer{
+  position:fixed;
+   padding:10px 0;
+   background-color:#101010;
+   color:#9d9d9d;
+   left:0;
+   bottom:0;
+   width:100%;
+   text-align: center;
+   
+   
+}
+.thumbnail img{
+    height:200px;
+    width:auto;
+    margin-bottom: 30px;
+
+}
+
+
+.row{
+    margin:auto;
+    margin:12px;
+    
+
+  
+}
+
+.caption{
+    text-align:center;
+}
